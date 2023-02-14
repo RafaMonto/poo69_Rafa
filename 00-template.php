@@ -5,21 +5,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OOP Files</title>
+    <title>Template</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body class="min-h-[100vh] flex justify-center items-center text-white">
     <main class="w-[380px] h-[600px] bg-white/40 rounded">
         <header class="flex gap-4 justify-center items-center border-b pb-5">
-            <a href="">
+            <a href="index.php">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                     stroke="currentColor" class="w-10 h-10 text-green-400 hover:-translate-x-3 transition-all">
                     <path stroke-linecap="round" stroke-linejoin="round"
                         d="M11.25 9l-3 3m0 0l3 3m-3-3h7.5M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
             </a>
-            <h1 class="text-2xl">OOP Files </h1>
+            <h1 class="text-2xl">Template </h1>
         </header>
         <section>
             

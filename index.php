@@ -22,8 +22,8 @@
         <section class="max-h-[500px] overflow-y-auto h-[524px]">
             <nav class="flex flex-col gap-2 items-center">
                 <a href="01-class.php" class="bg-blue-400 px-4 py-2 rounded w-[200px] opacity-80 hover:opacity-100 hover:scale-105 transition">01 Class</a>
-                <a href="" class="bg-blue-400 px-4 py-2 rounded w-[200px] opacity-80 hover:opacity-100 hover:scale-105 transition">02 Construct</a>
-                <a href="" class="bg-blue-400 px-4 py-2 rounded w-[200px] opacity-80 hover:opacity-100 hover:scale-105 transition">03 Private</a>
+                <a href="02-construct.php" class="bg-blue-400 px-4 py-2 rounded w-[200px] opacity-80 hover:opacity-100 hover:scale-105 transition">02 Construct</a>
+                <a href="03-private.php" class="bg-blue-400 px-4 py-2 rounded w-[200px] opacity-80 hover:opacity-100 hover:scale-105 transition">03 Private</a>
                 <a href="" class="bg-blue-400 px-4 py-2 rounded w-[200px] opacity-80 hover:opacity-100 hover:scale-105 transition">04 Collaboration</a>
                 <a href="" class="bg-blue-400 px-4 py-2 rounded w-[200px] opacity-80 hover:opacity-100 hover:scale-105 transition">05 Parameters</a>
                 <a href="" class="bg-blue-400 px-4 py-2 rounded w-[200px] opacity-80 hover:opacity-100 hover:scale-105 transition">06 Extends</a>
